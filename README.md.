@@ -1,0 +1,13 @@
+Episode Hub is a free story-reading platform powered by rewarded and banner ads. Users unlock episodes by watching ads, and the platform features a user-friendly interface for reading and discovering new stories.
+Key Features
+User Authentication: Sign in with email, Google, or anonymously
+Unlock Episodes: Watch rewarded ads to unlock new episodes
+Immersive Reading: Read episodes with a clean and intuitive interface
+Tracking Progress: Track reading progress and bookmark stories
+Rating System: Rate stories after reading
+Tech Stack
+Frontend: Next.js for a fast and scalable user interface
+Backend: Firebase for authentication, data storage, and ad integration
+Database: Firestore for storing user data and story content
+
+
